@@ -133,5 +133,5 @@ Execute the program
 # HTML VALIDATOR:
 ![HTML VALIDATOR](./valid.png)
 
-# RESULTL:
+# RESULT:
 The program for creating slot time table is completed successfully.
